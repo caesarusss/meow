@@ -1,0 +1,26 @@
+@import 'reset.css';
+@import 'content.css';
+
+h1, h2, h3 {
+    font-family: 'soyuz grotesk';
+}
+
+p {
+    font-family: 'helvetica';
+}
+
+.heading{
+    color: #0202ff;
+}
+
+h2 {color: #0202ff;}
+
+a {
+    text-decoration: none;
+    color: rgb(17, 27, 216);
+}
+
+body {
+    margin-left: 40px;
+    margin-right: 40px;
+}
